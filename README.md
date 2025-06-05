@@ -1,4 +1,4 @@
-**Car Rental System— Project Summary**
+#Car Rental System— Project Summary
 
 __Overview__
 
